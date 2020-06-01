@@ -2,3 +2,4 @@ Datei 1
 Fehler
 
 hotfix Zeile
+Änderung für stash Beispiel
