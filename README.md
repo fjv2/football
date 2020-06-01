@@ -1,5 +1,9 @@
 # Google Research Football
 
+## Neue Zeilen einfügen
+Eine weitere Zeile
+Eine zweite Zeile
+
 This repository contains an RL environment based on open-source game Gameplay
 Football. <br> It was created by the Google Brain team for research purposes.
 
@@ -17,7 +21,6 @@ For non-public matters that you'd like to discuss directly with the GRF team,
 please use google-research-football@google.com.
 
 We'd like to thank Bastiaan Konings Schuiling, who authored and open-sourced the original version of this game.
-
 
 ## Quick Start
 
@@ -170,3 +173,4 @@ For example extra_players='ppo2_cnn:right_players=1,policy=gfootball_impala_cnn,
 Solution: set environment variables for MESA driver, like this:
 
 `MESA_GL_VERSION_OVERRIDE=3.2 MESA_GLSL_VERSION_OVERRIDE=150 python3 -m gfootball.play_game`
+
